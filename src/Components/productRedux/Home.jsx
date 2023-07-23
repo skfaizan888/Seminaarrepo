@@ -8,7 +8,8 @@ export const Home=()=> {
           className="d-block w-100 h-50"
           src="Images/cara-01.PNG"
           alt="First slide"
-        //   style={{height:"500px"}}
+        
+        // /   style={{height:"500px"}}
         />
         
       </Carousel.Item>
